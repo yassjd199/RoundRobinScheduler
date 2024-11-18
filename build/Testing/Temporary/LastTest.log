@@ -1,0 +1,35 @@
+Start testing: Nov 18 11:23 CET
+----------------------------------------------------------
+1/1 Testing: AllTests
+1/1 Test: AllTests
+Command: "/home/yassjd199/Projects/RoundRobinScheduler/build/allTests"
+Directory: /home/yassjd199/Projects/RoundRobinScheduler/build
+"AllTests" start time: Nov 18 11:23 CET
+Output:
+----------------------------------------------------------
+Running main() from /usr/src/googletest/googletest/src/gtest_main.cc
+[==========] Running 4 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 4 tests from SchedulerTest
+[ RUN      ] SchedulerTest.AddTaskTest
+[       OK ] SchedulerTest.AddTaskTest (0 ms)
+[ RUN      ] SchedulerTest.InitializationTest
+[       OK ] SchedulerTest.InitializationTest (0 ms)
+[ RUN      ] SchedulerTest.ThroughputTest
+[       OK ] SchedulerTest.ThroughputTest (0 ms)
+[ RUN      ] SchedulerTest.CalculateWaitingTime
+[       OK ] SchedulerTest.CalculateWaitingTime (0 ms)
+[----------] 4 tests from SchedulerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 4 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"AllTests" end time: Nov 18 11:23 CET
+"AllTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 18 11:23 CET
