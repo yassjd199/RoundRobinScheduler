@@ -30,7 +30,7 @@ sudo apt-get install libgtest-dev
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/RoundRobinScheduler.git
+   git clone https://github.com/yassjd199/RoundRobinScheduler.git
    cd RoundRobinScheduler
    ```
 
