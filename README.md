@@ -1,6 +1,5 @@
 
 
-```markdown
 # Round Robin Scheduler
 
 ## Overview
