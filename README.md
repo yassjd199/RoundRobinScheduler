@@ -131,7 +131,4 @@ The project uses **Google Test** for unit testing. To run the tests, follow thes
 
 Unit tests for the **Scheduler** class are located in the `test` directory, and can include tests for task addition, task scheduling, throughput, waiting time, etc.
 
-## License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-```
