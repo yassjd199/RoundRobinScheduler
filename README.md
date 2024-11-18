@@ -83,7 +83,7 @@ Where:
   - Task 2: ID = 2, Arrival Time = 1, Burst Time = 3
   - Task 3: ID = 3, Arrival Time = 2, Burst Time = 2
 
-To run the scheduler with the input file:
+To run the scheduler :
 
 ```bash
 ./RoundRobinScheduler 
